@@ -1,0 +1,6 @@
+{
+  "name": "WNRS Swap Deck",
+  "description": "A swipeable connection card game inspired by We're Not Really Strangers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
